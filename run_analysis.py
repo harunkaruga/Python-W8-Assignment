@@ -1,6 +1,5 @@
 """
-Quick Start Script for CORD-19 Analysis
-Python Frameworks Assignment
+Quick Start Script for COVID-19 Analysis
 
 This script provides a simple way to run both the analysis and Streamlit app
 """
