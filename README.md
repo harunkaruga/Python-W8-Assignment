@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis Project
 
-This project provides a comprehensive analysis of the CORD-19 research dataset, focusing on COVID-19 research papers. It includes both a command-line analysis script and an interactive Streamlit web application.
+This project provides a comprehensive analysis of the COVID-19 research dataset, focusing on COVID-19 research papers. It includes both a command-line analysis script and an interactive Streamlit web application.
 
 ## 🎯 Project Overview
 
@@ -19,7 +19,7 @@ The project analyzes the CORD-19 dataset metadata, which contains:
 - Author information
 - Source databases (PMC, Medline, bioRxiv, etc.)
 
-**Note**: If the actual CORD-19 dataset is not available, the application generates realistic sample data for demonstration purposes.
+**Note**: If the actual COVID-19 dataset is not available, the application generates realistic sample data for demonstration purposes.
 
 ## 🛠️ Installation and Setup
 
@@ -93,7 +93,7 @@ Frameworks_Assignment/
 ├── data_analysis.py         # Main analysis script
 ├── streamlit_app.py         # Streamlit web application
 ├── analysis_report.md       # Detailed findings report
-└── metadata.csv            # CORD-19 dataset (if available)
+└── metadata.csv            # COVID-19 dataset 
 \`\`\`
 
 ## 📈 Key Features
