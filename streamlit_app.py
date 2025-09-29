@@ -1,6 +1,5 @@
 """
-CORD-19 Data Explorer - Streamlit Application
-Python Frameworks Assignment
+COVID-19 Data Explorer - Streamlit Application
 
 Interactive web application for exploring COVID-19 research data
 """
