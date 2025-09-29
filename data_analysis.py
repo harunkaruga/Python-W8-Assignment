@@ -1,8 +1,7 @@
 """
-CORD-19 Data Analysis Script
-Python Frameworks Assignment
+COVID-19 Data Analysis Script
 
-This script performs basic analysis of the CORD-19 research dataset
+This script performs basic analysis of the COVID-19 research dataset
 including data loading, cleaning, exploration, and visualization.
 """
 
