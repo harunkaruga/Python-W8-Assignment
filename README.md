@@ -1,6 +1,4 @@
-# CORD-19 Data Analysis Project
-
-## Python Frameworks Assignment
+# COVID-19 Data Analysis Project
 
 This project provides a comprehensive analysis of the CORD-19 research dataset, focusing on COVID-19 research papers. It includes both a command-line analysis script and an interactive Streamlit web application.
 
@@ -42,7 +40,7 @@ The project analyzes the CORD-19 dataset metadata, which contains:
    pip install -r requirements.txt
    \`\`\`
 
-3. **Download the CORD-19 dataset (optional)**
+3. **Download the CORD-19 dataset 
    - Visit: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
    - Download the `metadata.csv` file
    - Place it in the project root directory
@@ -143,16 +141,6 @@ Frameworks_Assignment/
 - **Interactivity**: Real-time chart updates based on user input
 - **Performance**: Data caching for improved response times
 
-## 📋 Assignment Requirements Fulfilled
-
-- ✅ **Data Loading and Exploration**: Complete dataset analysis with statistics
-- ✅ **Data Cleaning**: Missing value handling and data preparation
-- ✅ **Visualizations**: Multiple chart types showing different aspects
-- ✅ **Streamlit Application**: Interactive web interface with controls
-- ✅ **Code Quality**: Well-commented, modular, and documented code
-- ✅ **Documentation**: Comprehensive README and inline comments
-
-## 🎓 Learning Outcomes Achieved
 
 Through this project, the following skills were demonstrated:
 - Real-world dataset handling and preprocessing
@@ -203,19 +191,5 @@ This is an educational project. For improvements or suggestions:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
 
-This project is created for educational purposes as part of a Python Frameworks assignment.
 
-## 📞 Support
-
-For questions or issues related to this assignment, please refer to:
-- Course materials and documentation
-- Python and Streamlit official documentation
-- Instructor office hours or course forums
-
----
-
-**Assignment Completed**: Python Frameworks - CORD-19 Data Analysis
-**Technologies Used**: Python, Pandas, Streamlit, Matplotlib, Plotly
-**Date**: 2024
