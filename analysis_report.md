@@ -1,4 +1,4 @@
-# CORD-19 Data Analysis Report
+# COVID-19 Data Analysis Report
 
 ## Executive Summary
 
